@@ -1,4 +1,6 @@
 {
   "item.tutorialmod.dick": "Dick",
-  "item.tutorialmod.cookeddick": "CookedDick"
+  "item.tutorialmod.cookeddick": "CookedDick",
+
+  "itemgroup.dick": "Dick Tutorial Group"
 }
