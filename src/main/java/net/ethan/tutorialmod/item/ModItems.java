@@ -22,11 +22,11 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     private static Object FoodComponent;
     public static final Item DICK = registerItem("dick", new Item(new Item.Settings().food(new FoodComponent.Builder().nutrition(6).saturationModifier(6).statusEffect(new StatusEffectInstance(StatusEffects.HUNGER,5000, 20),20).build())));
-    public static final Item COOKEDDICK = registerItem("cookeddick", new Item(new Item.Settings().food(new FoodComponent.Builder().nutrition(20).saturationModifier(20).build())));
+    public static final Item COOKED_DICK = registerItem("cooked_dick", new Item(new Item.Settings().food(new FoodComponent.Builder().nutrition(20).saturationModifier(20).build())));
 
     private static void addItemsToFoodandDrink(FabricItemGroupEntries entries){
         entries.add(DICK);
-        entries.add(COOKEDDICK);
+        entries.add(COOKED_DICK);
     }
 
     private static Item registerItem(String name, Item item){

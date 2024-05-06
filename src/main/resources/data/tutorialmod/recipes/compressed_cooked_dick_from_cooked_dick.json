@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:cooked_dick"
+    }
+  },
+  "result": {
+    "id": "tutorialmod:compressed_cooked_dick"
+  }
+}

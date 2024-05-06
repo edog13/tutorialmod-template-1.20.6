@@ -1,6 +1,7 @@
 {
   "item.tutorialmod.dick": "Dick",
-  "item.tutorialmod.cookeddick": "CookedDick",
-
+  "item.tutorialmod.cooked_dick": "Cooked Dick",
+  "block.tutorialmod.compressed_dick": "Compressed Dick",
+  "block.tutorialmod.compressed_cooked_dick": "Compressed Cooked Dick",
   "itemgroup.dick": "Dick Tutorial Group"
 }

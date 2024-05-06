@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+    "item": "tutorialmod:compressed_dick"
+   }
+  ],
+  "result": {
+    "id": "tutorialmod:dick",
+    "count": 9
+  }
+}
